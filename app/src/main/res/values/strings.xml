@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="nueva_tarea">NUEVA TAREA</string>
+</resources>
